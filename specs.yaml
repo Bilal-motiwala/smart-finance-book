@@ -1,0 +1,46 @@
+spec:
+version: 1.0
+book:
+title: "Smart Finance for Everyone"
+author: "Bilal Motiwala"
+language: "English"
+audience: "Beginners and general readers interested in finance"
+style: "Simple, clear, engaging, easy-to-read, with examples and practical tips"
+format: "Markdown"
+chapters:
+- number: 1
+title: "Introduction: What is Finance?"
+subtopics:
+- "Definition of Finance"
+- "Why Finance is Important in Daily Life"
+- "Personal Finance vs Business Finance"
+- number: 2
+title: "History & Background of Finance"
+subtopics:
+- "Evolution of Money: Barter to Digital"
+- "Banking Systems and Loans"
+- "Stock Markets and Investments"
+- number: 3
+title: "Importance of Finance"
+subtopics:
+- "Personal Level: Savings, Budgeting, Retirement Planning"
+- "Business Level: Cash Flow, Profits, Risk Management"
+- "National Level: Economy, GDP, Employment"
+- number: 4
+title: "How People Benefit From Finance"
+subtopics:
+- "Investing: Stocks, Real Estate, Mutual Funds"
+- "Insurance and Risk Protection"
+- "Financial Freedom and Stress Reduction"
+- number: 5
+title: "Financial Fraud & Misuse"
+subtopics:
+- "Common Scams: Ponzi, Fake Apps, Phishing"
+- "Misuse of Finance: Money Laundering, Black Money"
+- "Tips for Safe Finance and Smart Investing"
+- number: 6
+title: "Conclusion: Smart Financial Living"
+subtopics:
+- "Key Takeaways"
+- "Practical Action Steps"
+- "Motivation to Apply Knowledge"
